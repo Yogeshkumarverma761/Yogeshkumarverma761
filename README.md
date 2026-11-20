@@ -1,9 +1,44 @@
 <!-- studio:settings user=yogeshkumarverma761 theme=auto hl=2 border=hide light=github-light -->
 
 <!-- studio:header -->
-<h1 align="center">Hi, I'm Yogesh kumar verma 👋</h1>
+<h1 align="center">Hi, I'm Yogesh Kumar Verma 👋</h1>
 
 <p align="center">Full-stack developer. I like shipping boring, reliable software.</p>
+
+<!-- studio:timeline -->
+## Experience
+
+| Role | Where | When |
+| --- | --- | --- |
+| AI Intern / AI Developer | Crossing Hurdles (Samvedh Grow Pvt. Ltd.) | 2026 to now |
+| Open Source Contributor | AI Track | May 2026 to now |
+
+<!-- studio:certs style=list -->
+## Certifications
+
+<table>
+  <tr>
+    <td width="64" valign="top"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/logo-aws.svg" alt="AWS: AWS Certified Cloud Practitioner — AWS • AWS Certified Data Engineer — Associate, AWS" width="56" height="56" /></td>
+    <td valign="top">
+    <b>AWS Certified Cloud Practitioner — AWS • AWS Certified Data Engineer — Associate, AWS</b><br />
+    AWS
+    </td>
+  </tr>
+  <tr>
+    <td width="64" valign="top"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/logo-coursera.svg" alt="Coursera: ML &amp; DL Certification — Stanford University • Deep Learning &amp; Artificial Intelligence — Coursera" width="56" height="56" /></td>
+    <td valign="top">
+    <b>ML &amp; DL Certification — Stanford University • Deep Learning &amp; Artificial Intelligence — Coursera</b><br />
+    Coursera
+    </td>
+  </tr>
+  <tr>
+    <td width="64" valign="top"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/logo-mongodb.svg" alt="MongoDB: MongoDB Database Certification — MongoDB University • Intro to Deep Learning &amp; NLP — Infosys Springboard" width="56" height="56" /></td>
+    <td valign="top">
+    <b>MongoDB Database Certification — MongoDB University • Intro to Deep Learning &amp; NLP — Infosys Springboard</b><br />
+    MongoDB
+    </td>
+  </tr>
+</table>
 
 <!-- studio:split w=60.a -->
 <table>
@@ -12,11 +47,13 @@
 
 ### About me
 
+B.Tech CSE (AI) student at KIET Deemed to be University with 8.5+ CGPA , focused on AI/ML and full-stack development. Skilled in Java, Python, React.js, FastAPI, Node.js, machine learning, Generative AI, RAG, LangChain/LangGraph, and AI agents. Experienced in building end-to-end AI applications, competitive coding, hackathons, and open-source development.
+
 - Working on **payments infrastructure**
 - Learning Rust, one borrow checker error at a time
 - Happy to review your first open source PR
 
-**Reach me:** [email](mailto:yogeshkumarverma761@example.com)
+**Reach me:** [email](mailto:yogeshverma0107july@gmail.com)
 
 <img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/spacer.svg" width="854" height="1" alt="" />
 
@@ -48,8 +85,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/stack-dark.svg?i=go%2Crust%2Cts%2Creact%2Cpostgres%2Credis%2Ckubernetes%2Cterraform%2Caws%2Clinux&perline=10" />
-    <img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/stack-light.svg?i=go,rust,ts,react,postgres,redis,kubernetes,terraform,aws,linux&perline=10" alt="Tech stack: go, rust, ts, react, postgres, redis, kubernetes, terraform, aws, linux" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/stack-dark.svg?i=java%2Cpy%2Cvscode%2Cpycharm%2Cgit%2Cgithub%2Ccss%2Cjs%2Cdjango%2Cfastapi%2Cnodejs%2Clinux%2Cmysql%2Csklearn&perline=10" />
+    <img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/stack-light.svg?i=java,py,vscode,pycharm,git,github,css,js,django,fastapi,nodejs,linux,mysql,sklearn&perline=10" alt="Tech stack: java, py, vscode, pycharm, git, github, css, js, django, fastapi, nodejs, linux, mysql, sklearn" />
   </picture>
 </p>
 
@@ -81,5 +118,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yogeshkumarverma761"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/badge-linkedin-flat-square.svg?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://example.com"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/badge-website-flat-square.svg?style=flat-square" alt="Website" /></a>
-  <a href="mailto:yogeshkumarverma761@example.com"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/badge-email-flat-square.svg?style=flat-square" alt="Email" /></a>
+  <a href="mailto:yogeshverma0107july@gmail.com"><img src="https://raw.githubusercontent.com/yogeshkumarverma761/yogeshkumarverma761/main/profile-assets/badge-email-flat-square.svg?style=flat-square" alt="Email" /></a>
 </p>
